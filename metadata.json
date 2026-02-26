@@ -1,0 +1,5 @@
+{
+  "name": "AI Knowledge Assistant",
+  "description": "Professional RAG platform for querying trained documents with instant AI responses and source citations.",
+  "requestFramePermissions": []
+}
